@@ -1,7 +1,7 @@
 
 Polkadot Score
 How it works
-The dress has polkadots represented as O characters. The scoring isn't just a straight count though — dots that land within the x-range of her lips get multiplied by the number of characters used to draw both her pupils.
+The dress has polkadots represented as O characters. The scoring isn't just a straight count though dots that land within the x-range of her lips get multiplied by the number of characters used to draw both her pupils.
 So the formula ends up being:
 score = dots_outside_lips + (dots_inside_lips * pupil_char_count)
 How I identified the features
